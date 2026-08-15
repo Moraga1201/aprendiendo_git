@@ -1,0 +1,16 @@
+# Carpetas de registros 
+logs/
+
+# Archivos de registro
+*.log
+
+# Variables de entorno
+.env
+
+# Archivos compilados
+*.o
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
